@@ -790,7 +790,7 @@ footer a{
 
 footer .contact-link a{
     border: 2px solid var(--color-1); 
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 footer .contact-link a:hover{
